@@ -4,8 +4,4 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-Nguyengiathanhcuti/Nguyengiathanhcuti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
----> termux-setup-storage && apt update && apt upgrade && pkg install php && pkg install python && pkg install git && pkg install wget && pip install --upgrade pip && pip install requests && pip install pycurl
-
+termux-setup-storage && apt update && apt upgrade && pkg install php && pkg install python && pkg install git && pkg install wget && pip install --upgrade pip && pip install requests && pip install pycurl
